@@ -1,4 +1,4 @@
-# Combinatorics-and-Graphics
+# Combinatorics-and-Graphs
 ## Combinatorical Optimization
 ### Meta-heuristic
 ### Simulated Annealing
